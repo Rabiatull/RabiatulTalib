@@ -22,7 +22,7 @@ Update the following placeholders in `index.html`:
 Review the skills list so it only includes technologies you can discuss confidently. Add repository links and screenshots only when projects are ready to share. Do not publish private FYP audio recordings or transcripts without appropriate permission.
 
 ## Publish with GitHub Pages
-1. Create a GitHub repository (for example, `athirah-portfolio`).
+1. Create a GitHub repository (for example, `Rabiatul-portfolio`).
 2. Upload `index.html`, `style.css`, and `script.js` to the repository root.
 3. In repository Settings, open Pages.
 4. Choose the `main` branch and `/ (root)` folder, then save.
