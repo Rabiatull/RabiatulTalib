@@ -1,4 +1,4 @@
-# Athirah's Personal Portfolio
+# Rabiatul's Personal Portfolio
 
 A responsive personal portfolio website built with HTML, CSS, and JavaScript.
 
